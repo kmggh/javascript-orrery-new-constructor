@@ -1,7 +1,7 @@
 Orrery with Cockroft Javascript Objects
 =======================================
 
-Ken Guyton
+Ken Guyton<br />
 Fri 2015-02-06 17:07:04 -0500
 
 
@@ -25,3 +25,10 @@ Bugs
 
 It would be nice to have command line arguments for setting the step size
 and the number of steps.
+
+
+References
+----------
+
+[Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM)<br />
+
