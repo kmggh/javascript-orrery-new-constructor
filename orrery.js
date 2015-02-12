@@ -1,4 +1,4 @@
-// Planetary Orrery example using Cockroft's new_constructor.
+// Planetary Orrery example using Crockford's new_constructor.
 // Copyright (C) 2015 by Ken Guyton.  All Rights Reserved.
 
 var new_constructor = require('./new_constructor.js');

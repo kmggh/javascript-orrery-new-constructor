@@ -1,11 +1,11 @@
-Orrery with Cockroft Javascript Objects
+Orrery with Crockford Javascript Objects
 =======================================
 
 Ken Guyton<br />
 Fri 2015-02-06 17:07:04 -0500
 
 
-Adrian Cockroft, in his book and in the video on Youtube, *Function
+Adrian Crockford, in his book and in the video on Youtube, *Function
 The Ultimate*, at the YUI theatre, describes a better way to
 instantiate objects.
 
